@@ -1,0 +1,9 @@
+form {
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+select {
+  margin: 5px;
+}
